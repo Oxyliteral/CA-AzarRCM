@@ -1,0 +1,106 @@
+{
+    "AzarCMR": {
+        "_gdeSchema": "Character",
+        "name": "",
+        "PassiveName": "",
+        "PassiveDes": "",
+        "SelectInfo": "",
+        "face": "Image/Face/Azar_face",
+        "FaceSmallChar": "CharImagePrefebs/FaceSmall/FaceSmall_Azar",
+        "FaceOriginChar": "CharImagePrefebs/Face/Face_Azar",
+        "BattleChar": "CharImagePrefebs/AzarBattle",
+        "PassiveIcon": "CharImagePrefebs/PassiveIcon/Azar",
+        "PassiveClassName": "AzarCMR.P_AzarCMR",
+        "PassiveUnlockLV1": false,
+        "FixedBasicSkill": "",
+        "Role": "Role_DPS",
+        "FirstSkill": "S_AzarCMR_0",
+        "MAXHP": {
+            "x": 22,
+            "y": 35
+        },
+        "ATK": {
+            "x": 15,
+            "y": 30
+        },
+        "DEF": {
+            "x": 0,
+            "y": 0
+        },
+        "CRI": {
+            "x": 5,
+            "y": 10
+        },
+        "DODGE": {
+            "x": 5,
+            "y": 10
+        },
+        "HIT": {
+            "x": 100,
+            "y": 111
+        },
+        "HIT_DOT": {
+            "x": -20,
+            "y": 20
+        },
+        "REG": {
+            "x": 6,
+            "y": 12
+        },
+        "RES_CC": {
+            "x": 10,
+            "y": 50
+        },
+        "RES_DEBUFF": {
+            "x": 0,
+            "y": 40
+        },
+        "HIT_CC": {
+            "x": -20,
+            "y": 20
+        },
+        "HIT_DEBUFF": {
+            "x": 0,
+            "y": 40
+        },
+        "RES_DOT": {
+            "x": 0,
+            "y": 40
+        },
+        "Gender": 0,
+        "CampSD": [
+            "Image/Character/SDCampNew/camp_sd_azar1",
+            "Image/Character/SDCampNew/camp_sd_azar1_light",
+            "Image/Character/SDCampNew/camp_sd_azar2",
+            "Image/Character/SDCampNew/camp_sd_azar2_light"
+        ],
+        "CampSelectWord": "",
+        "StatView_Atk": 3,
+        "StatView_Sup": 0,
+        "StatView_Def": 0,
+        "StatView_Heal": 0,
+        "StatView_Dot": 0,
+        "StatView_CC": 0,
+        "StatView_Debuff": 0,
+        "StatView_Difficult": 1,
+        "CollectionSprite_Cover": "Image/Collections/Character/Illust/Azar",
+        "CollectionSprite_SkillFace": "Image/Collections/Face/Azar",
+        "FriendShipSprite": "Image/Character/FriendShip/Azar",
+        "GoodGift": [
+            "Gift_Cartoon",
+            "Drink_Co",
+            "Gift_Gun"
+        ],
+        "Dialogue_NomalGiftTalk": "Assets/Dialogical/Dialogues/FS_Azar_Gift_Normal.asset",
+        "Dialogue_GoodGiftTalks": [
+            "Assets/Dialogical/Dialogues/FS_Azar_Gift_Cartoon.asset",
+            "Assets/Dialogical/Dialogues/FS_Azar_Gift_Coffee.asset",
+            "Assets/Dialogical/Dialogues/FS_Azar_Gift_ModelGun.asset"
+        ],
+        "Dialogue_FriendShipLVTalks": [
+            "Assets/Dialogical/Dialogues/FS_Azar_Lv1.asset",
+            "Assets/Dialogical/Dialogues/FS_Azar_Lv2.asset",
+            "Assets/Dialogical/Dialogues/FS_Azar_Lv3.asset"
+        ]
+    }
+}

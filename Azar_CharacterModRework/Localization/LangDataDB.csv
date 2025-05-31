@@ -1,0 +1,77 @@
+Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Character/AzarCMR_name,Text,,아자르,Azar,アザール,阿扎尔,阿札爾
+Character/AzarCMR_SelectInfo,Text,,"아자르는 어떠한 상황이라도 당황하지 않고 능숙하게 대처하여 조사단의 많은 기대를 받고 있으며 따르는 자도 많습니다.
+
+환영검 스킬로 인해 적을 여러번 공격할 수 있으며, 환영검을 활용하여 다양한 스킬 연계가 가능한 공격 역할군입니다.","Azar is always composed and reacts skillfully to any situation which makes him a great leader. The Investigation Team expects nothing less of him.
+
+He is an Attacker who can combo his skills in various ways by repeatedly attacking enemies with his Illusion Swords.","アザールはどんな時でも慌てることなく適切に対処するため、調査団内でも多くの信頼を受けています。
+
+ 幻影の刃で攻撃を繰り返し、様々なスキルの連携で敵を翻弄します。","阿扎尔拥有冷静的头脑和稳健的作战能力，能够熟练应对战场中的各种局势变化，也因此备受调查团的器重，拥有众多追随者。
+
+ 通过幻影剑多次攻击敌人，灵活运用幻影剑可连续触发多种技能，是团队中的进攻型角色。","阿札爾擁有冷靜的頭腦和穩健的作戰能力，能夠熟練應對戰場中的各種局勢變化，也因此備受調查團的器重，擁有眾多追隨者。
+
+ 透過幻影劍多次攻擊敵人，靈活運用幻影劍可連續觸發多種技能，是團隊中的進攻角色。"
+Character/AzarCMR_PassiveDes,Text,,,"After playing a skill, draw if hand is empty, prioritizing the caster.",,,
+Character/AzarCMR_PassiveName,Text,,환영검,Illusion Swords,幻影の刃,幻影剑,幻影劍
+Character/AzarCMR_CampSelectWord,Text,,난 언제나 준비되어 있어. 말만 해.,I'm always ready. Just say the word.,いつでも大丈夫だ。合図してくれるだけでいい。,需要我就说一声，我随时都可以出发。,需要我就說一聲，我隨時都可以出發。
+Buff/B_AzarCMR_4_Description,Text,,,"All skills in hand gain Illusion Sword buff at the start of next turn if the user takes no damage.
+If Azar is fainted, the buff will not be applied.",,,
+Buff/B_AzarCMR_4_Name,Text,,,Veiled Sword,,,
+Buff/B_AzarCMR_9_Description,Text,,,"Healing Power -50%.
+At turn end, gain +10% Attack Power for each Illusion Sword and Illusion Sword Buff in hand.
+Total: +&a%.
+Cast all Illusion Swords in hand on all enemies. Illusion Swords critical hit if targeting one enemy.
+Discard all Illusion Swords in hand.",,,
+Buff/B_AzarCMR_9_Name,Text,,,Sword of Infinity,,,
+Skill/S_AzarCMR_P_0_Description,Text,,,"When this skill is discarded, gain Barrier equal to 50% of Healing Power.",,,
+Skill/S_AzarCMR_P_0_Name,Text,,환영검,Illusion Sword,幻影の刃,幻影剑,幻影劍
+Skill/S_AzarCMR_0_Description,Text,,이 스킬의 위 아래에 있는 스킬에 환영검 버프를 부여합니다.,"When this skill is drawn, gain an Illusion Sword buff.
+When this skill is discarded, create an Illusion Sword in hand.
+Gain 2 Mana if this skill does not have Illusion Sword buff.",このスキルの上と下にあるスキルに幻影の刃効果を与える。,给位于此技能的上方及下方的技能赋予幻影剑增益。,給位於此技能的上方及下方的技能賦予幻影劍增益。
+Skill/S_AzarCMR_0_Name,Text,,환검술 초식,Illusion Sword: First Scroll,幻影剣術,唤影术第一式,喚影術第一式
+Skill/S_AzarCMR_1_Description,Text,,,"Next turn, start with 1 less Mana.
+This skill gains cost equal to current Mana. Create 2 Illusion Swords in hand per cost gained. Cost is reduced if hand would become full.
+Total: &a cost gained. &b Illusion Swords will be created.",,,
+Skill/S_AzarCMR_1_Name,Text,,승천참,Ascending Slice,昇天斬,升天斩,升天斬
+Skill/S_AzarCMR_2_Description,Text,,,"Apply Illusion Sword buff to another skill in hand.
+This skill casts again if it has an Illusion Sword buff.",,,
+Skill/S_AzarCMR_2_Name,Text,,유성검,Blade Starfall,流星剣,流星剑,流星劍
+Skill/S_AzarCMR_3_Description,Text,,,"Discard the lowest cost skill in hand. Draw a skill and apply Illusion Sword buff. If the cost of the discarded skill was 0, gain 1 Mana. If it had an Illusion Sword buff, gain 1 Mana.",,,
+Skill/S_AzarCMR_3_Name,Text,,환영 일섬,Illusion Flash,幻影一閃,幻影一闪,幻影一閃
+Skill/S_AzarCMR_4_Description,Text,,,"When this skill is drawn, apply Illusion Sword buff to another skill in hand.",,,
+Skill/S_AzarCMR_4_Name,Text,,검막,Veiled Sword,ブレイドヴェール,剑幕,劍幕
+Skill/S_AzarCMR_5_Description,Text,,비용이 0인 스킬을 낼 때마다 비용이 감소합니다.,"Cost reduced at the start and end of each turn.
+Attack Power +25% and cost reduced whenever a 0-cost skill is added to hand.
+Total: &a skills added.",コスト0のスキルを使用する度、コストが減少する。,每次释放费用为0的技能时，此技能的费用减少1点。,每次釋放費用為0的技能時，此技能的費用減少1點。
+Skill/S_AzarCMR_5_Name,Text,,폭검,Storming Blade,爆剣,雷霆剑,雷霆劍
+Skill/S_AzarCMR_7_Description,Text,,,"Remove Illusion Sword buff from all skills in hand. For each buff removed, gain 1 Mana.
+Select a skill to apply Illusion Sword.
+0-cost skills in hand gain Illusion Sword buffs up to current Mana.",,,
+Skill/S_AzarCMR_7_Name,Text,,환상,Fantasy,幻想,幻象,幻象
+Skill/S_AzarCMR_9_Description,Text,,,"Apply Illusion Sword buff to the top skill without Illusion Sword buff in hand.
+Gain 1 Mana if none.",,,
+Skill/S_AzarCMR_9_Name,Text,,무한의 검,Sword of Infinity,無限の刃,无限之剑,無限劍
+Skill/S_AzarCMR_10_Description,Text,,"이 스킬에 환영검 버프가 있으면, 두 번 시전합니다.",This skill casts again for each Illusion Sword and Illusion Sword buff in hand.,このスキルに幻影の刃効果がある場合、もう一度発動する。,当此技能附带幻影剑增益时，释放两次。,當此技能附帶幻影劍增益時，釋放兩次。
+Skill/S_AzarCMR_10_Name,Text,,초승달 베기,Crescent Slash,三日月切り,新月斩,新月斬
+Skill/S_AzarCMR_11_Description,Text,,,"Select a skill to discard. If the cost of the discarded skill was 2 or less, draw 2 skills. Skills in hand gain Illusion Sword buffs equal to the cost of the discarded skill.",,,
+Skill/S_AzarCMR_11_Name,Text,,빛나는 검기,Shining Aura,光る剣気,光辉剑气,光輝劍氣
+Skill/S_AzarCMR_12_Description,Text,,,"Discard all Illusion Swords in hand. Create Illusion Swords in hand equal to the amount of discarded skills. If none were discarded, spend 1 mana, draw a skill, and add 'Sword of Infinity' to your hand. Otherwise, create an Illusion Sword in hand.",,,
+Skill/S_AzarCMR_12_Name,Text,,이기어검,Dancing Sword,飛剣術,以气御剑,以氣御劍
+Skill/S_AzarCMR_13_Description,Text,,,"Choose one -
+Create an Illusion Sword in hand and apply Illusion Sword buff.
+Create an Illusion Sword in hand for each Illusion Sword in hand.",,,
+Skill/S_AzarCMR_13_Name,Text,,환영검 생성,Illusion Sword's Calling,幻影の刃召喚,生成幻影剑,生成幻影劍
+Skill/S_AzarCMR_13_0_Description,Text,,,"Create an Illusion Sword in hand and apply Illusion Sword buff.",,,
+Skill/S_AzarCMR_13_0_Name,Text,,환영검 생성,Illusion Sword's Calling,幻影の刃召喚,生成幻影剑,生成幻影劍
+Skill/S_AzarCMR_13_1_Description,Text,,,"Create an Illusion Sword in hand for each Illusion Sword in hand.",,,
+Skill/S_AzarCMR_13_1_Name,Text,,환영검 부여,Apply Illusion Sword,幻影の刃付与,赋予幻影剑,賦予幻影劍
+Skill/S_AzarCMR_LD_0_Description,Text,,"스킬을 2개 뽑고, 뽑은 스킬에 환영검 버프를 부여합니다.
+아자르가 전투 불능 상태라면, 환영검 버프를 부여하지 않습니다.","Draw 2 skills and apply Illusion Sword buff onto them.
+If Azar is fainted, the buff will not be applied.","スキルを2個引き、幻影の刃効果を与える。
+アザールが戦闘不能である場合、幻影の刃効果を与えない。","抽取2个技能，并给抽取的技能添加幻影剑增益。
+若阿扎尔处于无法战斗的状态，则不添加幻影剑增益。","抽取2個技能，並為抽取的技能加入幻影劍增益。
+若阿札爾處​​於無法戰鬥的狀態，則不加入幻影劍增益。"
+Skill/S_AzarCMR_LD_0_Name,Text,,환영검 분열,Fractured Illusion,幻影の刃分裂,幻影分裂,幻影分裂
+SkillExtended/P_AzarCMR_0_Des,Text,,,Add an Illusion Sword to hand if you play or discard this skill.,,,
+SkillExtended/P_AzarCMR_0_EnforceString,Text,,,,,,
+SkillExtended/P_AzarCMR_0_Name,Text,,,Illusion Sword,,,

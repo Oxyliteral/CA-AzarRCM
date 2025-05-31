@@ -1,0 +1,25 @@
+{
+    "B_AzarCMR_9": {
+        "_gdeSchema": "Buff",
+        "Name": "",
+        "Description": "",
+        "ClassName": "AzarCMR.B_AzarCMR_9",
+        "Icon": "",
+        "Debuff": false,
+        "LifeTime": 1,
+        "MaxStack": 1,
+        "Hide": false,
+        "Cantdisable": false,
+        "Tick": "null",
+        "_gdeType_Barrier": "Int",
+        "Barrier": 0,
+        "AllyBuffEffect": "",
+        "EnemyBuffEffect": "",
+        "BuffTag": "null",
+        "TagPer": 0,
+        "Caution": false,
+        "BuffSoundEffect": "",
+        "IsFieldBuff": false,
+        "UseSkillDebuff": false
+    }
+}

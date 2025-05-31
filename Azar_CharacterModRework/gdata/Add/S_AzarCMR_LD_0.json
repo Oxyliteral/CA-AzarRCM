@@ -1,0 +1,53 @@
+{
+    "S_AzarCMR_LD_0": {
+        "_gdeSchema": "Skill",
+        "Name": "",
+        "Description": "",
+        "SkillExtended": [
+            "AzarCMR.Extended_AzarCMR_LD_0"
+        ],
+        "UseAp": 1,
+        "Target": "Misc",
+        "Particle": "Particle/impact",
+        "Effect_Target": "null",
+        "Effect_Self": "null",
+        "KeyID": "",
+        "Category": "LucySkill",
+        "NODOD": false,
+        "AutoDelete": 0,
+        "NotCount": true,
+        "ViewBuff": false,
+        "SKillExtendedItem": [
+            
+        ],
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "User": "LucyDraw",
+        "PlusViewBuffList": [
+            
+        ],
+        "Lock": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Image_2": "SkillImages/Azar/Azar_13_2",
+        "Image_1": "SkillImages/Azar/Azar_13_1",
+        "Image_0": "SkillImages/Azar/Azar_13_0",
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "PlusKeyWords": [
+            
+        ],
+        "Counting": 0,
+        "Track": false,
+        "Rare": false,
+        "LucyPartyDraw": "AzarCMR",
+        "EnemyPreview": false,
+        "PlusSkillView": "",
+        "EnemySkillSpeed": 0,
+        "UnknownTarget": false,
+        "Fatal": false,
+        "SpecialUnlock": 0
+    }
+}

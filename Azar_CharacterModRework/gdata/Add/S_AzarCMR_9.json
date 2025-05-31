@@ -1,0 +1,53 @@
+{
+    "S_AzarCMR_9": {
+        "_gdeSchema": "Skill",
+        "Name": "",
+        "Description": "",
+        "SkillExtended": [
+            "AzarCMR.Extended_AzarCMR_9"
+        ],
+        "UseAp": 0,
+        "Target": "Misc",
+        "Particle": "Particle/impact",
+        "Effect_Target": "SE_AzarCMR_T_9",
+        "Effect_Self": "SE_S_S_AzarCMR_9",
+        "KeyID": "",
+        "Category": "null",
+        "NODOD": false,
+        "AutoDelete": 0,
+        "NotCount": true,
+        "ViewBuff": false,
+        "SKillExtendedItem": [
+            
+        ],
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "User": "AzarCMR",
+        "PlusViewBuffList": [
+            
+        ],
+        "Lock": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Image_2": "SkillImages/Azar/Azar_9_2",
+        "Image_1": "SkillImages/Azar/Azar_9_1",
+        "Image_0": "SkillImages/Azar/Azar_9_0",
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": true,
+        "PlusKeyWords": [
+            
+        ],
+        "Counting": 0,
+        "Track": false,
+        "Rare": true,
+        "LucyPartyDraw": "",
+        "EnemyPreview": false,
+        "PlusSkillView": "",
+        "EnemySkillSpeed": 0,
+        "UnknownTarget": false,
+        "Fatal": false,
+        "SpecialUnlock": 0
+    }
+}

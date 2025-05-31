@@ -1,0 +1,12 @@
+{
+    "SE_AzarCMR_T_4": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "Buffs": [
+            "B_AzarCMR_4"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ]
+    }
+}

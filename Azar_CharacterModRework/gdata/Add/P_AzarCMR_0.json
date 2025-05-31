@@ -1,0 +1,17 @@
+{
+    "P_AzarCMR_0": {
+        "_gdeSchema": "SkillExtended",
+        "Name": "",
+        "Des": "",
+        "ClassName": "AzarCMR.P_AzarCMR_0",
+        "IsIcon": "Image/Buff/Skill_Icon_Pack/1_5icon/1_5 (1)",
+        "Image": "",
+        "Particle": "",
+        "AlwaysParticle": false,
+        "Debuff": false,
+        "IsOnesInit": false,
+        "Drop": false,
+        "EnforceString": "",
+        "NeedCharacter": ""
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "SE_S_S_AzarCMR_9": {
+        "_gdeSchema": "SkillEffect",
+        "Buffs": [
+            "B_AzarCMR_9"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ]
+    }
+}

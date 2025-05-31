@@ -1,0 +1,25 @@
+{
+    "B_AzarCMR_P_0": {
+        "_gdeSchema": "Buff",
+        "Name": "",
+        "Description": "",
+        "ClassName": "AzarCMR.B_AzarCMR_P_0",
+        "Icon": "Image/Buff/Skill_Icon_Pack/emerald/emerald_03",
+        "Debuff": false,
+        "LifeTime": 1,
+        "MaxStack": 0,
+        "Hide": false,
+        "Cantdisable": false,
+        "Tick": "null",
+        "_gdeType_Barrier": "Int",
+        "Barrier": 1,
+        "AllyBuffEffect": "",
+        "EnemyBuffEffect": "",
+        "BuffTag": "Debuff",
+        "TagPer": 0,
+        "Caution": false,
+        "BuffSoundEffect": "",
+        "IsFieldBuff": false,
+        "UseSkillDebuff": false
+    }
+}
